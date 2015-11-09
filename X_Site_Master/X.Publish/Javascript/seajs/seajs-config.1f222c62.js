@@ -1,0 +1,1 @@
+seajs&&seajs.config({charset:"utf-8",timeout:2e4,debug:!1,alias:{jQuery:"/js/util/library/jquery.31ef4c3f",json:"/js/util/library/json.95b2d8a0",underscore:"/js/util/library/underscore.cdf0dc56",plugins:"/js/util/plugins.b873da5c",rsa:"/js/util/rsa/encrypt.935794c0"}});
