@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Project\MyProject\X_Web_Master\X.Publish\Form</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/Configs.xml">
+      <publishTime>08/27/2015 17:11:35</publishTime>
+    </File>
+    <File Include="App_Readme/Elmah.txt">
+      <publishTime>06/24/2015 11:34:08</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>11/03/2015 16:33:21</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>11/03/2015 16:33:21</publishTime>
+    </File>
+    <File Include="bin/Elmah.dll">
+      <publishTime>09/16/2015 10:18:45</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>06/24/2015 11:32:27</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>11/03/2015 14:39:34</publishTime>
+    </File>
+    <File Include="bin/System.Data.SqlServerCe.dll">
+      <publishTime>06/04/2012 13:29:58</publishTime>
+    </File>
+    <File Include="bin/X.Interface.Dto.dll">
+      <publishTime>10/16/2015 12:36:06</publishTime>
+    </File>
+    <File Include="bin/X.Web.Entities.dll">
+      <publishTime>11/03/2015 14:54:03</publishTime>
+    </File>
+    <File Include="bin/X.Web.Form.dll">
+      <publishTime>11/03/2015 16:13:17</publishTime>
+    </File>
+    <File Include="bin/X.Web.Util.dll">
+      <publishTime>11/03/2015 16:13:16</publishTime>
+    </File>
+    <File Include="bin/zh-CHS/System.Data.SqlServerCe.resources.dll">
+      <publishTime>06/04/2012 13:29:58</publishTime>
+    </File>
+    <File Include="elmah.axd">
+      <publishTime>10/10/2015 16:29:25</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/16/2015 10:38:22</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>11/03/2015 16:32:46</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/15/2015 10:34:03</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

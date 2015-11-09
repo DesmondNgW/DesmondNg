@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <AppSettings>
+    <add key="CookieDomain" value="" />
+    <add key="Timestamp" value="20150827" />
+  </AppSettings>
+</configuration>

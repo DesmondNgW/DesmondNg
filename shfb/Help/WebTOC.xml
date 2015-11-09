@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="503e59c7-c90b-4feb-8c88-898ea192e845" Title="X.Interface.Dto" Url="html/a0476287-7f1b-b622-7535-efa5d7ddfcf0.htm">
+    <HelpTOCNode Id="816fb54f-ffb7-4e6e-aa0c-72474cbf8f20" Title="ApiResult(T) Class" Url="html/34be8766-67e3-27db-ecd6-286581c59fe9.htm">
+      <HelpTOCNode Title="ApiResult(T) Constructor " Url="html/029b3684-2ce5-2fb5-1fe6-530f3baecf41.htm" />
+      <HelpTOCNode Id="e1b71ff1-cbe5-4f35-bb94-280ff5096b0d" Title="ApiResult(T) Properties" Url="html/01a913a8-c312-04bd-e994-1c673e4d84ec.htm">
+        <HelpTOCNode Title="Code Property " Url="html/79536591-fe4f-0489-809a-5fcf04eb478e.htm" />
+        <HelpTOCNode Title="Data Property " Url="html/eabc8d76-f168-e2aa-6b38-e489424137d8.htm" />
+        <HelpTOCNode Title="DebugError Property " Url="html/8b97dc0b-7ce8-0f90-a9e7-0c1f365f0f30.htm" />
+        <HelpTOCNode Title="Error Property " Url="html/a495e0c8-f159-e6bb-6a59-5b3912cb0dfc.htm" />
+        <HelpTOCNode Title="Success Property " Url="html/89bddea5-ff71-6a3c-35e9-c5d30ed5f74a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ea1a30be-8764-49ef-b0d2-93a47446d5e4" Title="HttpRequestContext Class" Url="html/2a1f663a-5eeb-f6be-6c8d-68474e4d9b57.htm">
+      <HelpTOCNode Title="HttpRequestContext Constructor " Url="html/fad4fc92-2800-c01a-b980-0425816ad53f.htm" />
+      <HelpTOCNode Id="a63afb81-ce36-457d-b470-a18d36f80f21" Title="HttpRequestContext Properties" Url="html/a01d7753-9198-32ec-418c-ac2fffaf5431.htm">
+        <HelpTOCNode Title="ClientId Property " Url="html/33af5b99-2b83-02e8-bee2-03d94960382d.htm" />
+        <HelpTOCNode Title="ClientName Property " Url="html/49a0b3f0-6522-f5c6-a4d3-49dde0173cce.htm" />
+        <HelpTOCNode Title="ClientType Property " Url="html/f28845d2-bbc2-1a29-aada-5954e5933288.htm" />
+        <HelpTOCNode Title="ClientVersion Property " Url="html/56c6e443-0cda-f697-e2df-63971a421bcc.htm" />
+        <HelpTOCNode Title="PlatForm Property " Url="html/c0168151-1d46-fc31-e061-fc44cf78bf14.htm" />
+        <HelpTOCNode Title="Screen Property " Url="html/16a25d6f-a56b-9aa1-b087-e667c284b829.htm" />
+        <HelpTOCNode Title="Tid Property " Url="html/14d44d40-bb1c-386e-6ace-c0315dccde0e.htm" />
+        <HelpTOCNode Title="Token Property " Url="html/04b718d0-4270-c1dc-152d-3fda7d9c3506.htm" />
+        <HelpTOCNode Title="Version Property " Url="html/1be6abb6-8305-3acb-cad7-66be10d9132d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6ac3f6e1-1a5a-430b-9b6d-5ddeb51711a0" Title="UserRequestDtoBase Class" Url="html/035f1de5-8515-7cfa-b9cb-86323b11c975.htm">
+      <HelpTOCNode Title="UserRequestDtoBase Constructor " Url="html/859dc1b1-3bdb-a582-a51c-3541b84694f8.htm" />
+      <HelpTOCNode Id="2705595b-b35d-4931-af7f-67547b1e7646" Title="UserRequestDtoBase Properties" Url="html/53d80a03-fcc9-64e4-a795-fd8f21099a46.htm">
+        <HelpTOCNode Title="Uid Property " Url="html/dacbaa26-c083-1f57-267c-f571d3cb5481.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="5d065ff3-5fd7-4ba4-a635-8fef9ae91903" Title="X.Interface.Dto.HttpRequest" Url="html/d87f6881-1d3c-dc7b-ba1e-9604757a4974.htm">
+    <HelpTOCNode Id="8873506d-333b-4a71-8f6f-9656f3eee125" Title="LoginRequestDto Class" Url="html/4ef1c015-ee7f-91ce-667e-4f390788000d.htm">
+      <HelpTOCNode Title="LoginRequestDto Constructor " Url="html/ecc14aa0-14a4-263c-d8d8-b982cdd70540.htm" />
+      <HelpTOCNode Id="0c5b543a-3f3b-41ea-932a-fd1070ade748" Title="LoginRequestDto Properties" Url="html/99d173bf-fc5b-96c6-67ee-ae8493e3cd1e.htm">
+        <HelpTOCNode Title="LoginName Property " Url="html/2e1b28fc-8365-b9a9-cea9-375cb87d90ab.htm" />
+        <HelpTOCNode Title="Nonce Property " Url="html/c7c66288-417c-bc1f-156b-9655beb81988.htm" />
+        <HelpTOCNode Title="Password Property " Url="html/281887ef-2d4d-f771-b1e0-957b821d7321.htm" />
+        <HelpTOCNode Title="RsaKey Property " Url="html/ef83b859-ea33-9dc8-deb4-5460860b4939.htm" />
+        <HelpTOCNode Title="Size Property " Url="html/e77f2e2f-8a02-96ea-7a1f-605d68a48a36.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="23da3296-51a1-466d-ab93-724449ae297a" Title="X.Interface.Dto.HttpResponse" Url="html/8887a4d8-69a3-fb38-9cd1-90fe87c97eba.htm">
+    <HelpTOCNode Title="EnumAccountState Enumeration" Url="html/348b6121-cc23-47cc-9185-da52c0b79801.htm" />
+    <HelpTOCNode Id="d1d339e5-0ea7-477d-8d9a-a218ff82c355" Title="FundCompanyDto Class" Url="html/07b21fe0-0c92-ea85-cbd5-91c734688801.htm">
+      <HelpTOCNode Title="FundCompanyDto Constructor " Url="html/f6565076-c913-6fb0-84e2-8485c59458e1.htm" />
+      <HelpTOCNode Id="3faedbec-2f68-49c8-ba74-16128294a8c7" Title="FundCompanyDto Properties" Url="html/88e5d151-e9dd-7d4d-49ac-3ebba561c713.htm">
+        <HelpTOCNode Title="CompanyName Property " Url="html/eaa43381-2bc6-5ef6-fc90-f8721f9a2789.htm" />
+        <HelpTOCNode Title="CompanyNo Property " Url="html/9ef0ef23-405f-15ef-1845-053d47996cb6.htm" />
+        <HelpTOCNode Title="ContactPerson Property " Url="html/09004872-76f7-6c09-d178-624d1d23d06a.htm" />
+        <HelpTOCNode Title="ContractInfo Property " Url="html/ca2d4095-ba62-f793-03b1-d9774c5e66e4.htm" />
+        <HelpTOCNode Title="MainOfficeAddress Property " Url="html/9fac12e4-c874-93a6-7f84-dd1a0857a5d7.htm" />
+        <HelpTOCNode Title="PersonInCharge Property " Url="html/e5930590-244b-e50b-fe02-e7eec5560b5a.htm" />
+        <HelpTOCNode Title="RegisteredAddress Property " Url="html/5cd03b9e-852d-71f0-f2a9-bf5a9996b114.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c1996804-1e12-4cf3-9a4e-3e235fe874c2" Title="FundDaysDto Class" Url="html/0784127d-dfc4-2269-07d2-7ccb80278be6.htm">
+      <HelpTOCNode Title="FundDaysDto Constructor " Url="html/15e9b2a8-59a1-5cc4-b85b-51a1b76b2349.htm" />
+      <HelpTOCNode Id="29d1663c-0adf-4da6-bf68-f93255cca183" Title="FundDaysDto Properties" Url="html/5e53f4d5-7615-b38c-b03d-274b57ad84f6.htm">
+        <HelpTOCNode Title="CashDays Property " Url="html/5c3def57-0c89-445e-356d-40553d1451ee.htm" />
+        <HelpTOCNode Title="CreateTime Property " Url="html/3d96e2e3-dce3-e0d6-9e6e-b4f1e4255777.htm" />
+        <HelpTOCNode Title="FundCode Property " Url="html/1f2e24f0-6b26-f3c7-8a5c-4b10f43e349e.htm" />
+        <HelpTOCNode Title="IsDel Property " Url="html/0d9f07f4-d5fa-f594-a331-1cd1e6031930.htm" />
+        <HelpTOCNode Title="IsEnabled Property " Url="html/0053eae0-8cf5-c362-12c8-322f25f11fa6.htm" />
+        <HelpTOCNode Title="RgCfmDays Property " Url="html/199f6f28-3d31-e16c-632a-08f9a3299e9d.htm" />
+        <HelpTOCNode Title="TradeCfmDays Property " Url="html/46b2970e-6867-d77c-2339-b4f5fa96895e.htm" />
+        <HelpTOCNode Title="UpdateTime Property " Url="html/f4dd431d-73a8-6561-9638-91339f71b724.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bbaebea9-4b89-438c-9b92-c81b07c27365" Title="FundDto Class" Url="html/0f8645e8-601b-c420-5699-da4d50c6020c.htm">
+      <HelpTOCNode Title="FundDto Constructor " Url="html/f460ae69-901f-c078-075c-8cc625137267.htm" />
+      <HelpTOCNode Id="ab950bcb-43a5-4f0b-bd8b-4e395bafcc18" Title="FundDto Properties" Url="html/9d7801aa-7cad-0f66-232d-d965fab3c9a9.htm">
+        <HelpTOCNode Title="AllowBusin Property " Url="html/825ac4c3-d94f-796a-5f2f-9b8a91049b98.htm" />
+        <HelpTOCNode Title="CanCashBuy Property " Url="html/bd105777-cb88-5f9e-54e8-2fbdfee9e83b.htm" />
+        <HelpTOCNode Title="CanCashRedeem Property " Url="html/726a40db-07a6-28a7-f3aa-97923dedece8.htm" />
+        <HelpTOCNode Title="CashType Property " Url="html/bc9233bb-100b-1e48-03cd-a5d950acd9e9.htm" />
+        <HelpTOCNode Title="ChargeType Property " Url="html/8186ce63-9873-941b-5c0a-eceaaab515de.htm" />
+        <HelpTOCNode Title="ChargeTypeName Property " Url="html/b8ac4a65-a4d9-e5b2-ae1a-d13d474c5b59.htm" />
+        <HelpTOCNode Title="CreateTime Property " Url="html/a0a7d44d-27d0-5b70-2c30-c48d056ac97c.htm" />
+        <HelpTOCNode Title="DefDividendMethod Property " Url="html/326936a7-7d1f-a45f-fffd-102714ef8fee.htm" />
+        <HelpTOCNode Title="Discount Property " Url="html/47a2a1b4-8478-23a7-2bac-8dce8848faa5.htm" />
+        <HelpTOCNode Title="FinancialRound Property " Url="html/d8cbd02b-5ef9-efa4-2dc6-65c518db52d7.htm" />
+        <HelpTOCNode Title="FinancialTip Property " Url="html/1ce2a564-1bdf-ff66-45bc-ba57192d7cbd.htm" />
+        <HelpTOCNode Title="FinancialType Property " Url="html/aa99d17a-c03b-33bb-6c94-b829d7d3528c.htm" />
+        <HelpTOCNode Title="FundCode Property " Url="html/24e5b7fc-4e78-f072-70b6-9299fb5decaa.htm" />
+        <HelpTOCNode Title="FundCompany Property " Url="html/7f879a25-acc3-ba73-5eba-13de5440da4a.htm" />
+        <HelpTOCNode Title="FundCompanyNo Property " Url="html/bbe950a5-aee4-4c10-08fe-e3d79c266614.htm" />
+        <HelpTOCNode Title="FundName Property " Url="html/55aaac2a-f099-7fe3-6317-d2f12d38b5fc.htm" />
+        <HelpTOCNode Title="FundRisk Property " Url="html/ee05db31-1a30-7aba-0061-34867e26fd36.htm" />
+        <HelpTOCNode Title="FundRiskName Property " Url="html/f6a8c449-13dc-6b54-34d2-390437bf72ce.htm" />
+        <HelpTOCNode Title="FundState Property " Url="html/abad55ac-b2da-6808-355d-77bf37d3d727.htm" />
+        <HelpTOCNode Title="FundStateName Property " Url="html/7c4e39a7-8b43-fe9a-4b2d-20c4a4fbbf86.htm" />
+        <HelpTOCNode Title="FundType Property " Url="html/7a6b0089-0486-6340-1351-ce8b0a53505a.htm" />
+        <HelpTOCNode Title="FundTypeName Property " Url="html/896ecdd7-db48-ed52-232c-6d44af2bd96f.htm" />
+        <HelpTOCNode Title="IpoBeginDate Property " Url="html/4a18ff32-fab8-c512-c822-8e22406569ed.htm" />
+        <HelpTOCNode Title="IpoEndDate Property " Url="html/854c4582-a6fb-17d0-0b66-8e6020999969.htm" />
+        <HelpTOCNode Title="IsEnabled Property " Url="html/353cd363-9267-71a2-721b-a3a5510d543f.htm" />
+        <HelpTOCNode Title="MajorFundCode Property " Url="html/3782b9fe-ccaa-7e3c-151d-c46620c33785.htm" />
+        <HelpTOCNode Title="MaxRedeem Property " Url="html/cad8fb79-ba49-0d60-24b8-d4ea6a66a308.htm" />
+        <HelpTOCNode Title="MaxSg Property " Url="html/ab807ff0-fc61-4553-4686-c0a002d7de9e.htm" />
+        <HelpTOCNode Title="MinHoldShare Property " Url="html/ca74cec1-54ff-d2a6-6382-18c3367e39d6.htm" />
+        <HelpTOCNode Title="MinRedeem Property " Url="html/fcace9d7-c063-c309-7c02-5d35af6c306f.htm" />
+        <HelpTOCNode Title="MinRgAppend Property " Url="html/7b1947fb-1d6a-db0a-6645-781c9be50edc.htm" />
+        <HelpTOCNode Title="MinRgInvested Property " Url="html/3800ec5c-119e-e924-44d1-830de1988cab.htm" />
+        <HelpTOCNode Title="MinSgAppend Property " Url="html/c3fe495b-a968-185a-bce1-f7f7375f2112.htm" />
+        <HelpTOCNode Title="MinSgInvested Property " Url="html/fdca5c5e-eb47-c0ce-bdde-0b7f734074ce.htm" />
+        <HelpTOCNode Title="MinTimerSg Property " Url="html/e7bbd406-8042-9c91-8e1b-01257d3deae6.htm" />
+        <HelpTOCNode Title="MinTrans Property " Url="html/e78b6a99-aac1-e726-c972-cf94d22067a2.htm" />
+        <HelpTOCNode Title="MoneyTypeB Property " Url="html/2746d33c-b6db-ac39-9ad4-7f6a6150b47a.htm" />
+        <HelpTOCNode Title="Nav Property " Url="html/131081ac-1ba5-a399-8376-908c07ffcd7e.htm" />
+        <HelpTOCNode Title="NavDate Property " Url="html/00b2cd90-e75b-6fe2-550c-709af523a409.htm" />
+        <HelpTOCNode Title="Rate Property " Url="html/5d16c07a-7515-318e-376d-421101d0af92.htm" />
+        <HelpTOCNode Title="ReachDay Property " Url="html/3ab6db28-64be-3126-e6e5-69426b0261f0.htm" />
+        <HelpTOCNode Title="RedeemLimits Property " Url="html/ba67099e-1b2b-e356-4abf-f2e7e36419cf.htm" />
+        <HelpTOCNode Title="StablishDate Property " Url="html/786a3f12-774d-3ef1-6154-dc514cbd5881.htm" />
+        <HelpTOCNode Title="TransCodes Property " Url="html/91002383-f79f-13a9-914a-b19b11a6a2a2.htm" />
+        <HelpTOCNode Title="UpdateTime Property " Url="html/a20552a0-c3c5-c9c9-29fc-e44926c81d0a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="af8cdf8f-3bac-4265-a7c3-3ce1f21eae6c" Title="FundNavDto Class" Url="html/b20404cd-ffea-472a-49c2-7159e6cd77bc.htm">
+      <HelpTOCNode Title="FundNavDto Constructor " Url="html/de6f8d97-c895-353b-c593-4caae9c168fb.htm" />
+      <HelpTOCNode Id="d4b44199-6df2-4215-abc1-b3e0271ed622" Title="FundNavDto Properties" Url="html/75ce7257-e96b-80f3-17c2-36747b505a3c.htm">
+        <HelpTOCNode Title="Annual7D Property " Url="html/d365f88d-b086-d067-7bae-7907d5027469.htm" />
+        <HelpTOCNode Title="FundCode Property " Url="html/bd07e600-c705-c964-c6b1-2ca518ea5b6f.htm" />
+        <HelpTOCNode Title="FundName Property " Url="html/3f993f35-a893-3b2c-d91a-2c62e45c9c97.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/f97b75f5-bae5-8950-fbfe-7594b0cb5c13.htm" />
+        <HelpTOCNode Title="Nav Property " Url="html/c81dcf67-a67f-c485-4cf7-2cf5a24c0648.htm" />
+        <HelpTOCNode Title="Navdate Property " Url="html/f10a9a27-1889-6853-84d0-63ff5f285542.htm" />
+        <HelpTOCNode Title="UnitAccrual Property " Url="html/65ad3a19-b0f9-cfdd-fd7d-ad43068b294d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="12a2c0d2-178c-4d02-bfa7-813ef8837b06" Title="PublicKeyDto Class" Url="html/7e226236-5939-b652-efe8-5e22a5fc8b5a.htm">
+      <HelpTOCNode Title="PublicKeyDto Constructor " Url="html/b92a4ffe-db4b-c152-0e09-c3307d5dcca6.htm" />
+      <HelpTOCNode Id="f908e488-95f5-4801-a677-2cf6f04315be" Title="PublicKeyDto Properties" Url="html/e6810bb9-d972-08e8-6ad2-84d9033aa0ad.htm">
+        <HelpTOCNode Title="Exponent Property " Url="html/4e1e1a1f-5803-d740-332e-eb6ecd3ac298.htm" />
+        <HelpTOCNode Title="Modulus Property " Url="html/10ed609b-24da-bf0a-b9e3-14f7162b4740.htm" />
+        <HelpTOCNode Title="Nonce Property " Url="html/7b61fd6e-19f4-62fe-d139-9039825a0036.htm" />
+        <HelpTOCNode Title="RsaKey Property " Url="html/04fcfaa4-4806-ea0e-6d0d-49964c56a303.htm" />
+        <HelpTOCNode Title="Size Property " Url="html/94afbcc1-e1d4-044d-e2d4-453bf2953098.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="22282145-2773-4aea-950e-0f5105d559fe" Title="RouteInfoDto Class" Url="html/c8fbf1a0-0547-d0bc-95aa-f916f877262c.htm">
+      <HelpTOCNode Title="RouteInfoDto Constructor " Url="html/5440ef3a-7de8-5262-7528-b64ed677b8da.htm" />
+      <HelpTOCNode Id="08fe2346-6cba-475e-a33c-4c888b519327" Title="RouteInfoDto Properties" Url="html/3033808e-1a49-e4db-2ab9-bbe24190361b.htm">
+        <HelpTOCNode Title="CertNo Property " Url="html/8dac15b9-57d4-2514-41b4-ea8e7d41c822.htm" />
+        <HelpTOCNode Title="CertType Property " Url="html/ba1f0b05-3166-b12e-f61c-a0f6f127f1c2.htm" />
+        <HelpTOCNode Title="CreateTime Property " Url="html/6e6fa4b3-01ad-a9bf-ccf1-aaa880f6fecb.htm" />
+        <HelpTOCNode Title="CustomerNo Property " Url="html/e6688d8a-69dc-cc2a-b999-ffae069c1619.htm" />
+        <HelpTOCNode Title="EastmoneyPassport Property " Url="html/cd9eee4c-bd79-6777-2c5c-ba2fdaaaf36a.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/1d2dae6a-8281-69a5-bd90-faf6ad627e0d.htm" />
+        <HelpTOCNode Title="MobilePhone Property " Url="html/c1e165a6-d59c-c948-2226-fbd41a414419.htm" />
+        <HelpTOCNode Title="UpdateTime Property " Url="html/f90c67a2-8031-5f75-ea13-92feac467c89.htm" />
+        <HelpTOCNode Title="Zone Property " Url="html/8d9dca96-a949-06e2-4d89-6342cccaab2d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="79637c92-cc7d-4029-8d83-0c68ac153f87" Title="UserDto Class" Url="html/378b4d4f-eabd-4e8c-4c96-df69b7312730.htm">
+      <HelpTOCNode Title="UserDto Constructor " Url="html/a9963608-06a9-6906-0a4e-8f7add7a22c9.htm" />
+      <HelpTOCNode Id="e995a9ba-3882-4bfd-91b6-4012d01a3c66" Title="UserDto Properties" Url="html/523287e2-275f-1853-35b6-ced2691c7910.htm">
+        <HelpTOCNode Title="AccLoginTimes Property " Url="html/999b6f77-6d04-fc43-00db-cfdb8d6de4a9.htm" />
+        <HelpTOCNode Title="AccountState Property " Url="html/5e3dde7e-32fd-b003-8b98-b19598888e2a.htm" />
+        <HelpTOCNode Title="CertificateNoCrypt Property " Url="html/f5200870-40fb-fe09-3859-336fee27b8d9.htm" />
+        <HelpTOCNode Title="CertificateType Property " Url="html/42faa969-d368-6bae-42f3-210994fd6ada.htm" />
+        <HelpTOCNode Title="CustomerName Property " Url="html/f0f12592-3a46-7a9a-1a57-a102b1bccd44.htm" />
+        <HelpTOCNode Title="IdEndDate Property " Url="html/3236d2a8-ab2d-dd9c-afe9-8163e9d855a1.htm" />
+        <HelpTOCNode Title="LastLoginTime Property " Url="html/1d21046b-e0cf-8404-497f-f8e2bcfd774d.htm" />
+        <HelpTOCNode Title="OpenTime Property " Url="html/952d8cbb-a03f-ab95-3eb2-f06dd194def6.htm" />
+        <HelpTOCNode Title="Risk Property " Url="html/6da6dd4e-ce69-0415-9033-8e082df741bd.htm" />
+        <HelpTOCNode Title="RiskName Property " Url="html/e2804b12-5f81-241f-7564-6f28c275fa1f.htm" />
+        <HelpTOCNode Title="Uid Property " Url="html/9b1b9f27-8b8f-a1e8-2268-247bdf050c59.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="b5d41be2-ce1f-4367-bbd9-400beca594f9" Title="X.Interface.Dto.Interface" Url="html/2d5d612b-372f-78df-607e-11a5ed61802b.htm">
+    <HelpTOCNode Id="d868ca96-9114-4066-9e19-f891baa425a2" Title="IFund Interface" Url="html/761cb771-6f3e-3dd2-b4a5-195c146daa22.htm">
+      <HelpTOCNode Id="e1bdcd8c-d1d6-4989-b489-fda725186b85" Title="IFund Methods" Url="html/d085e0ab-bfa1-e8a2-8b8b-cf3e4fd1343a.htm">
+        <HelpTOCNode Title="GetFund Method " Url="html/f7ac3aeb-2c45-c3b0-f6e9-440b227d9acc.htm" />
+        <HelpTOCNode Title="GetFundCompanies Method " Url="html/73cb4849-94ef-2b6a-e929-67ba00679f0b.htm" />
+        <HelpTOCNode Title="GetFundDay Method " Url="html/ad2d2d15-16ff-67f2-fb0e-d8bb53959369.htm" />
+        <HelpTOCNode Title="GetFundNav Method " Url="html/7e076f52-85e8-fbae-8cc4-f3b9ea761329.htm" />
+        <HelpTOCNode Title="GetFunds Method " Url="html/29a80f80-7c83-22f3-2c1c-13eaf69ccab2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="680df247-60a1-4fff-bc49-d8773606d383" Title="IKeyManager Interface" Url="html/5286fec4-2a18-3676-f08d-fdb70c007e75.htm">
+      <HelpTOCNode Id="7fa413cf-543f-4142-aaa3-0f39f8d89c2e" Title="IKeyManager Methods" Url="html/2aff9269-54b9-3809-7090-90acd2db1262.htm">
+        <HelpTOCNode Title="GetPublicKey Method " Url="html/ecdf2afc-f6d5-f438-c787-24d92ed30d94.htm" />
+        <HelpTOCNode Title="GetToken Method " Url="html/3331ccb3-a336-6445-ba62-6550537c53e8.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6e5c443e-013e-4456-89c6-b9bb327f2722" Title="ILogin Interface" Url="html/d8d25e74-5ba3-ce8a-1ff4-fb6a9e553f54.htm">
+      <HelpTOCNode Id="d687ea36-f379-4b3c-a581-21850cf8032b" Title="ILogin Methods" Url="html/477ca0c0-3f04-0200-905e-012e2afc5622.htm">
+        <HelpTOCNode Title="Login Method " Url="html/bbc796f0-4a91-6ce5-d342-8c9c45626468.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="72ea6faa-a9f6-41c6-ad5d-07d3768f2953" Title="IUser Interface" Url="html/544f7db8-556d-d537-084c-78c9b800bea4.htm">
+      <HelpTOCNode Id="2e0a3119-98fb-4d2f-9e03-cc660f3134c3" Title="IUser Methods" Url="html/03291ef2-e1e2-c13d-8607-c00bd0db68fe.htm">
+        <HelpTOCNode Title="GetUserInfo Method " Url="html/23d4bb02-e7e0-504f-95b7-1ef8dd1fdeee.htm" />
+        <HelpTOCNode Title="Logout Method " Url="html/4dd2d8ad-a259-997c-9a30-e1934944a007.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6669fb83-f359-446b-b2f9-55272c43b81d" Title="IWorkDay Interface" Url="html/e504b697-b975-06d5-8808-a85e845d29b4.htm">
+      <HelpTOCNode Id="c91680a2-e916-4c5d-a2c2-6bcae53ee425" Title="IWorkDay Methods" Url="html/0f671d69-5a39-6c10-8947-7a30ed2fdc54.htm">
+        <HelpTOCNode Title="GetCurrentWorkDay Method " Url="html/99220e1e-ebdf-2227-1287-f80a197a2ec3.htm" />
+        <HelpTOCNode Title="GetPointWorkday Method " Url="html/ce4d3734-0c48-dc66-77fd-e6bfd4b2249f.htm" />
+        <HelpTOCNode Title="GetWorkday Method " Url="html/895e77a6-bbe6-ea2f-df88-fe876df79550.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="d7de868a-bc2a-469b-9c32-ff11b23cea23" Title="X.UI.API.Controllers" Url="html/189add1b-1077-7016-785a-b42b96cb2e9c.htm">
+    <HelpTOCNode Id="b54e8913-fbae-4daf-95a4-068b3f695b68" Title="FundController Class" Url="html/2b960c71-d2bf-264e-a050-44c11b938fa6.htm">
+      <HelpTOCNode Title="FundController Constructor " Url="html/44b07c12-6448-cb90-aa69-663b90964f49.htm" />
+      <HelpTOCNode Id="b2980402-9774-455f-8f67-0c2c4da167be" Title="FundController Methods" Url="html/6d09d7a0-9d3c-4387-7a50-b4e13da505f0.htm">
+        <HelpTOCNode Title="GetFund Method " Url="html/f8a72ff7-b55b-2f39-48de-2315e5cf2017.htm" />
+        <HelpTOCNode Title="GetFundCompanies Method " Url="html/67b5bcd8-ac7b-fe21-14ba-4ea585321fd7.htm" />
+        <HelpTOCNode Title="GetFundDay Method " Url="html/10a28350-d2c6-07e0-1fb5-24e76c7b52ae.htm" />
+        <HelpTOCNode Title="GetFundNav Method " Url="html/299e4480-3e91-ec14-b0f5-5d677a4eee80.htm" />
+        <HelpTOCNode Title="GetFunds Method " Url="html/607f9da0-b33d-dc06-161d-1498467d6fd5.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a87b6b68-9ba3-47fa-9268-7ecd0a6357a6" Title="KmsController Class" Url="html/9029befc-992d-10f3-c208-fac50fe0c087.htm">
+      <HelpTOCNode Title="KmsController Constructor " Url="html/055d1d9d-ab69-54f4-ca5e-c0ee8aeaa59c.htm" />
+      <HelpTOCNode Id="7377c278-facb-4e03-b5c1-42557c238247" Title="KmsController Methods" Url="html/57cc5b21-531f-7d50-e1af-da0fadefa33d.htm">
+        <HelpTOCNode Title="GetPublicKey Method " Url="html/b4f0f2b0-4572-cd1b-0b56-bb6b22067872.htm" />
+        <HelpTOCNode Title="GetToken Method " Url="html/04a8e55e-8d37-2607-c8e5-293d201bf63c.htm" />
+        <HelpTOCNode Title="Now Method " Url="html/ca4f4f66-6b88-c7f9-d4cc-ef22397efdf5.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6aebd09f-f21e-44b1-bb3e-c4d3ed8229e6" Title="LoginController Class" Url="html/c05b746b-b44c-e5a7-046c-f77177901831.htm">
+      <HelpTOCNode Title="LoginController Constructor " Url="html/6fa672d4-bf08-9656-d840-59110123f9af.htm" />
+      <HelpTOCNode Id="2981bbbb-4e65-474c-9d5d-b7b53ffd52b0" Title="LoginController Methods" Url="html/749be125-969f-c532-d060-dc6afe384291.htm">
+        <HelpTOCNode Title="Login Method " Url="html/20117252-70a9-4341-060d-1581c234205a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="45731261-5c74-4dfa-87fd-f31b86cee4df" Title="UserController Class" Url="html/377df070-7c9d-b0fb-8325-3db93630d493.htm">
+      <HelpTOCNode Title="UserController Constructor " Url="html/b6d1e420-d0ae-e500-cc85-676873eea765.htm" />
+      <HelpTOCNode Id="be70bcdc-d1bf-4e69-add2-f5b4400bc311" Title="UserController Methods" Url="html/6c6edf92-d0f2-0d98-e563-e4f0ddb9b623.htm">
+        <HelpTOCNode Title="GetUserInfo Method " Url="html/0b7df28d-8d9c-8795-63e8-bb52cdb81ac0.htm" />
+        <HelpTOCNode Title="Logout Method " Url="html/1d0b53fc-3977-336c-13ba-5035ae751775.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f06fc203-315d-4cbd-bb62-493a6246552c" Title="WorkDayController Class" Url="html/ad3ba65f-f59e-3d33-03c8-a7e6c1749342.htm">
+      <HelpTOCNode Title="WorkDayController Constructor " Url="html/53fcba07-4832-29a3-9871-4488e65edc44.htm" />
+      <HelpTOCNode Id="5d3b7a8c-97f4-49c0-8b98-31dbf671be66" Title="WorkDayController Methods" Url="html/3b6a022f-f5ac-7cf2-1699-04f629ba260e.htm">
+        <HelpTOCNode Title="GetCurrentWorkDay Method " Url="html/24eabdf2-64c4-2439-5910-a10f44132e2a.htm" />
+        <HelpTOCNode Title="GetPointWorkday Method " Url="html/9039bd8f-7d82-b5a6-caac-a715cbc81902.htm" />
+        <HelpTOCNode Title="GetWorkday Method " Url="html/3d485c09-c177-da02-5d71-78c6cb31a434.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
