@@ -43,6 +43,7 @@ namespace X.UI.API.Controllers
         public ApiResult<DateTime> Now()
         {
             return new ApiResult<DateTime> {Success = true, Data = DateTime.Now};
+            //
         }
     }
 }
